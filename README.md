@@ -24,6 +24,12 @@ A simple and elegant **Grade Calculator** that helps you determine your grade ba
 2. Click the **"Calculate"** button.  
 3. View the result instantly!  
 
+## 🌎 Try It Out!
+
+You can visit the **Grade Calculator** website online and try it yourself:
+
+🔗 **[Live Demo](https://forjoee.github.io/Grade-Calculator-Website-/)**  
+
 ## 📥 Installation
 
 If you want to run this project locally:  
