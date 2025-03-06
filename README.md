@@ -16,8 +16,7 @@ A simple and elegant **Grade Calculator** that helps you determine your grade ba
 
 ## 📷 Preview
 
-![Grade Calculator Preview]
-https://github.com/user-attachments/assets/73480a8f-1a76-4488-9904-4c45a68bc90b
+![Grade Calculator Preview] (https://github.com/user-attachments/assets/73480a8f-1a76-4488-9904-4c45a68bc90b)
 
 ## 📖 How to Use
 
