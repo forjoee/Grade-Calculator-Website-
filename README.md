@@ -28,7 +28,7 @@ A simple and elegant **Grade Calculator** that helps you determine your grade ba
 
 You can visit the **Grade Calculator** website online and try it yourself:
 
-🔗 **[Live Demo](https://forjoee.github.io/Grade-Calculator-Website-/)**  
+🔗 **[Website](https://forjoee.github.io/Grade-Calculator-Website-/)**
 
 ## 📥 Installation
 
