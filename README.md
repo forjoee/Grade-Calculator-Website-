@@ -11,7 +11,7 @@ A simple and elegant **Grade Calculator** that helps you determine your grade ba
 ## 🛠️ Technologies Used
 
 - **HTML** – Structure  
-- **CSS** – Styling & animations  
+- **CSS** – Styling & Αnimations  
 - **JavaScript** – Functionality  
 
 ## 📷 Preview
