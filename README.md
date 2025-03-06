@@ -29,11 +29,3 @@ A simple and elegant **Grade Calculator** that helps you determine your grade ba
 You can visit the **Grade Calculator** website online and try it yourself:
 
 🔗 **[Website](https://forjoee.github.io/Grade-Calculator-Website-/)**
-
-## 📥 Installation
-
-If you want to run this project locally:  
-
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/forjoee/Grade-Calculator-Website-.git
